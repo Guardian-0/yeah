@@ -22,8 +22,8 @@ except ImportError:
 MESSAGES = [
     {"text": "pls beg",    "cooldown": 10},
     {"text": "pls hunt",   "cooldown": 10},
-    {"text": "pls dig",    "cooldown":  5},
-    {"text": "pls fish catch",   "cooldown":  5},
+    {"text": "pls dig",    "cooldown":  10},
+    {"text": "pls fish catch",   "cooldown":  6},
     {"text": "pls search", "cooldown":  2},
     {"text": "pls crime", "cooldown":  2},
 ]
